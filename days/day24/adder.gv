@@ -1,0 +1,1700 @@
+strict digraph {
+
+
+	"vfw OR nqq -> bjh" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"vfw OR nqq -> bjh" -> "bjh XOR stv -> z37" [ label="bjh",  weight=0 ];
+
+	"vfw OR nqq -> bjh" -> "bjh AND stv -> dqj" [ label="bjh",  weight=0 ];
+
+	"cwd AND pwm -> qtk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"cwd AND pwm -> qtk" -> "qtk OR qwc -> jsw" [ label="qtk",  weight=0 ];
+
+	"z38" [ shape="square",  weight=0 ];
+
+	"y32 XOR x32 -> bfj" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y32 XOR x32 -> bfj" -> "hrn XOR bfj -> z32" [ label="bfj",  weight=0 ];
+
+	"y32 XOR x32 -> bfj" -> "hrn AND bfj -> wqs" [ label="bfj",  weight=0 ];
+
+	"y11 XOR x11 -> hwk" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y11 XOR x11 -> hwk" -> "jsw XOR hwk -> z11" [ label="hwk",  weight=0 ];
+
+	"y11 XOR x11 -> hwk" -> "hwk AND jsw -> fnt" [ label="hwk",  weight=0 ];
+
+	"jvk AND jpt -> nnt" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"jvk AND jpt -> nnt" -> "nvs OR nnt -> wcj" [ label="nnt",  weight=0 ];
+
+	"z30" [ shape="square",  weight=0 ];
+
+	"y01" [ shape="circle",  weight=0 ];
+
+	"y01" -> "y01 AND x01 -> npn" [ label="y01",  weight=0 ];
+
+	"y01" -> "y01 XOR x01 -> kjh" [ label="y01",  weight=0 ];
+
+	"x25" [ shape="circle",  weight=0 ];
+
+	"x25" -> "y25 AND x25 -> mnf" [ label="x25",  weight=0 ];
+
+	"x25" -> "x25 XOR y25 -> nhb" [ label="x25",  weight=0 ];
+
+	"x31 AND y31 -> fdc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x31 AND y31 -> fdc" -> "bgk OR fdc -> hrn" [ label="fdc",  weight=0 ];
+
+	"gwk OR rwb -> qrk" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"gwk OR rwb -> qrk" -> "fts XOR qrk -> z40" [ label="qrk",  weight=0 ];
+
+	"gwk OR rwb -> qrk" -> "fts AND qrk -> fgm" [ label="qrk",  weight=0 ];
+
+	"y08" [ shape="circle",  weight=0 ];
+
+	"y08" -> "x08 XOR y08 -> cfd" [ label="y08",  weight=0 ];
+
+	"y08" -> "x08 AND y08 -> fhv" [ label="y08",  weight=0 ];
+
+	"x32 AND y32 -> wsv" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x32 AND y32 -> wsv" -> "wsv OR wqs -> kpd" [ label="wsv",  weight=0 ];
+
+	"x07 AND y07 -> sqm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x07 AND y07 -> sqm" -> "sqm OR qnk -> nfs" [ label="sqm",  weight=0 ];
+
+	"y09" [ shape="circle",  weight=0 ];
+
+	"y09" -> "y09 XOR x09 -> dsc" [ label="y09",  weight=0 ];
+
+	"y09" -> "y09 AND x09 -> tpp" [ label="y09",  weight=0 ];
+
+	"z44" [ shape="square",  weight=0 ];
+
+	"x30 AND y30 -> z30" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x30 AND y30 -> z30" -> "z30" [ label="z30",  weight=0 ];
+
+	"x28 AND y28 -> rjr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x28 AND y28 -> rjr" -> "ctp OR rjr -> msw" [ label="rjr",  weight=0 ];
+
+	"x28" [ shape="circle",  weight=0 ];
+
+	"x28" -> "x28 AND y28 -> rjr" [ label="x28",  weight=0 ];
+
+	"x28" -> "x28 XOR y28 -> kdt" [ label="x28",  weight=0 ];
+
+	"qnr XOR mpn -> z06" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qnr XOR mpn -> z06" -> "z06" [ label="z06",  weight=0 ];
+
+	"x26" [ shape="circle",  weight=0 ];
+
+	"x26" -> "x26 AND y26 -> jpd" [ label="x26",  weight=0 ];
+
+	"x26" -> "y26 XOR x26 -> bmw" [ label="x26",  weight=0 ];
+
+	"y01 AND x01 -> npn" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y01 AND x01 -> npn" -> "npn OR jjv -> jpt" [ label="npn",  weight=0 ];
+
+	"y36 XOR x36 -> rbm" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y36 XOR x36 -> rbm" -> "rbm XOR tjp -> z36" [ label="rbm",  weight=0 ];
+
+	"y36 XOR x36 -> rbm" -> "tjp AND rbm -> nqq" [ label="rbm",  weight=0 ];
+
+	"msh OR rfc -> z45" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"msh OR rfc -> z45" -> "z45" [ label="z45",  weight=0 ];
+
+	"z16" [ shape="square",  weight=0 ];
+
+	"nfs XOR cfd -> z08" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"nfs XOR cfd -> z08" -> "z08" [ label="z08",  weight=0 ];
+
+	"z25" [ shape="square",  weight=0 ];
+
+	"y25 AND x25 -> mnf" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y25 AND x25 -> mnf" -> "gdv OR mnf -> dwn" [ label="mnf",  weight=0 ];
+
+	"ckr AND dmf -> fns" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"ckr AND dmf -> fns" -> "bqd OR fns -> bwp" [ label="fns",  weight=0 ];
+
+	"x07" [ shape="circle",  weight=0 ];
+
+	"x07" -> "y07 XOR x07 -> btr" [ label="x07",  weight=0 ];
+
+	"x07" -> "x07 AND y07 -> sqm" [ label="x07",  weight=0 ];
+
+	"z27" [ shape="square",  weight=0 ];
+
+	"hkn OR tmf -> vfn" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"hkn OR tmf -> vfn" -> "gmv AND vfn -> dbr" [ label="vfn",  weight=0 ];
+
+	"hkn OR tmf -> vfn" -> "gmv XOR vfn -> z35" [ label="vfn",  weight=0 ];
+
+	"bqd OR fns -> bwp" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"bqd OR fns -> bwp" -> "jkg AND bwp -> crb" [ label="bwp",  weight=0 ];
+
+	"bqd OR fns -> bwp" -> "jkg XOR bwp -> z21" [ label="bwp",  weight=0 ];
+
+	"x41 AND y41 -> rpp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x41 AND y41 -> rpp" -> "wcp OR rpp -> msr" [ label="rpp",  weight=0 ];
+
+	"x23 XOR y23 -> pbw" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x23 XOR y23 -> pbw" -> "kkf AND pbw -> z23" [ label="pbw",  weight=0 ];
+
+	"x23 XOR y23 -> pbw" -> "kkf XOR pbw -> rmj" [ label="pbw",  weight=0 ];
+
+	"x08 AND y08 -> fhv" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x08 AND y08 -> fhv" -> "fhv OR rrh -> nwf" [ label="fhv",  weight=0 ];
+
+	"nws OR scr -> tkm" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"nws OR scr -> tkm" -> "njr XOR tkm -> z44" [ label="tkm",  weight=0 ];
+
+	"nws OR scr -> tkm" -> "tkm AND njr -> rfc" [ label="tkm",  weight=0 ];
+
+	"y16" [ shape="circle",  weight=0 ];
+
+	"y16" -> "y16 XOR x16 -> wnf" [ label="y16",  weight=0 ];
+
+	"y16" -> "x16 AND y16 -> qwd" [ label="y16",  weight=0 ];
+
+	"y40" [ shape="circle",  weight=0 ];
+
+	"y40" -> "y40 XOR x40 -> fts" [ label="y40",  weight=0 ];
+
+	"y40" -> "y40 AND x40 -> rnk" [ label="y40",  weight=0 ];
+
+	"kkf AND pbw -> z23" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"kkf AND pbw -> z23" -> "z23" [ label="z23",  weight=0 ];
+
+	"mts OR bvm -> dks" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"mts OR bvm -> dks" -> "qff XOR dks -> z15" [ label="dks",  weight=0 ];
+
+	"mts OR bvm -> dks" -> "qff AND dks -> ttr" [ label="dks",  weight=0 ];
+
+	"x41 XOR y41 -> qvg" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x41 XOR y41 -> qvg" -> "qvg XOR mng -> z41" [ label="qvg",  weight=0 ];
+
+	"x41 XOR y41 -> qvg" -> "mng AND qvg -> wcp" [ label="qvg",  weight=0 ];
+
+	"x00 AND y00 -> kkc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x00 AND y00 -> kkc" -> "kjh XOR kkc -> z01" [ label="kkc",  weight=0 ];
+
+	"x00 AND y00 -> kkc" -> "kjh AND kkc -> jjv" [ label="kkc",  weight=0 ];
+
+	"sqm OR qnk -> nfs" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"sqm OR qnk -> nfs" -> "nfs XOR cfd -> z08" [ label="nfs",  weight=0 ];
+
+	"sqm OR qnk -> nfs" -> "cfd AND nfs -> rrh" [ label="nfs",  weight=0 ];
+
+	"z19" [ shape="square",  weight=0 ];
+
+	"y38 XOR x38 -> btb" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y38 XOR x38 -> btb" -> "btb OR jhw -> dqg" [ label="btb",  weight=0 ];
+
+	"msw AND qsg -> ntq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"msw AND qsg -> ntq" -> "dhk OR ntq -> knj" [ label="ntq",  weight=0 ];
+
+	"z33" [ shape="square",  weight=0 ];
+
+	"qsg XOR msw -> z29" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qsg XOR msw -> z29" -> "z29" [ label="z29",  weight=0 ];
+
+	"y21" [ shape="circle",  weight=0 ];
+
+	"y21" -> "y21 XOR x21 -> jkg" [ label="y21",  weight=0 ];
+
+	"y21" -> "x21 AND y21 -> fvf" [ label="y21",  weight=0 ];
+
+	"pkh XOR hqn -> z24" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"pkh XOR hqn -> z24" -> "z24" [ label="z24",  weight=0 ];
+
+	"dhk OR ntq -> knj" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"dhk OR ntq -> knj" -> "knj AND rvp -> dqs" [ label="knj",  weight=0 ];
+
+	"dhk OR ntq -> knj" -> "knj XOR rvp -> rdg" [ label="knj",  weight=0 ];
+
+	"z08" [ shape="square",  weight=0 ];
+
+	"x10 AND y10 -> qwc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x10 AND y10 -> qwc" -> "qtk OR qwc -> jsw" [ label="qwc",  weight=0 ];
+
+	"gmv XOR vfn -> z35" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"gmv XOR vfn -> z35" -> "z35" [ label="z35",  weight=0 ];
+
+	"x31 XOR y31 -> kqt" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x31 XOR y31 -> kqt" -> "nmr XOR kqt -> z31" [ label="kqt",  weight=0 ];
+
+	"x31 XOR y31 -> kqt" -> "nmr AND kqt -> bgk" [ label="kqt",  weight=0 ];
+
+	"fnt OR gfg -> krw" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"fnt OR gfg -> krw" -> "krw AND wnm -> njt" [ label="krw",  weight=0 ];
+
+	"fnt OR gfg -> krw" -> "krw XOR wnm -> z12" [ label="krw",  weight=0 ];
+
+	"x19 XOR y19 -> drf" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x19 XOR y19 -> drf" -> "drf XOR mtd -> z19" [ label="drf",  weight=0 ];
+
+	"x19 XOR y19 -> drf" -> "mtd AND drf -> mhj" [ label="drf",  weight=0 ];
+
+	"x11 AND y11 -> gfg" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x11 AND y11 -> gfg" -> "fnt OR gfg -> krw" [ label="gfg",  weight=0 ];
+
+	"x13" [ shape="circle",  weight=0 ];
+
+	"x13" -> "y13 AND x13 -> rsm" [ label="x13",  weight=0 ];
+
+	"x13" -> "x13 XOR y13 -> hbk" [ label="x13",  weight=0 ];
+
+	"z32" [ shape="square",  weight=0 ];
+
+	"y15 XOR x15 -> qff" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y15 XOR x15 -> qff" -> "qff XOR dks -> z15" [ label="qff",  weight=0 ];
+
+	"y15 XOR x15 -> qff" -> "qff AND dks -> ttr" [ label="qff",  weight=0 ];
+
+	"nmr AND kqt -> bgk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"nmr AND kqt -> bgk" -> "bgk OR fdc -> hrn" [ label="bgk",  weight=0 ];
+
+	"pwm XOR cwd -> z10" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"pwm XOR cwd -> z10" -> "z10" [ label="z10",  weight=0 ];
+
+	"y22 AND x22 -> tgj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y22 AND x22 -> tgj" -> "tgj OR fcp -> kkf" [ label="tgj",  weight=0 ];
+
+	"rsm OR npk -> std" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"rsm OR npk -> std" -> "std XOR qmm -> z14" [ label="std",  weight=0 ];
+
+	"rsm OR npk -> std" -> "qmm AND std -> mts" [ label="std",  weight=0 ];
+
+	"btb OR jhw -> dqg" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"btb OR jhw -> dqg" -> "kjv AND dqg -> gwk" [ label="dqg",  weight=0 ];
+
+	"btb OR jhw -> dqg" -> "kjv XOR dqg -> z39" [ label="dqg",  weight=0 ];
+
+	"cmv XOR fwm -> z18" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"cmv XOR fwm -> z18" -> "z18" [ label="z18",  weight=0 ];
+
+	"x33" [ shape="circle",  weight=0 ];
+
+	"x33" -> "x33 AND y33 -> ffv" [ label="x33",  weight=0 ];
+
+	"x33" -> "x33 XOR y33 -> snw" [ label="x33",  weight=0 ];
+
+	"mtd AND drf -> mhj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"mtd AND drf -> mhj" -> "mhj OR sgm -> dmf" [ label="mhj",  weight=0 ];
+
+	"x31" [ shape="circle",  weight=0 ];
+
+	"x31" -> "x31 AND y31 -> fdc" [ label="x31",  weight=0 ];
+
+	"x31" -> "x31 XOR y31 -> kqt" [ label="x31",  weight=0 ];
+
+	"x06" [ shape="circle",  weight=0 ];
+
+	"x06" -> "x06 XOR y06 -> mpn" [ label="x06",  weight=0 ];
+
+	"x06" -> "x06 AND y06 -> wgj" [ label="x06",  weight=0 ];
+
+	"y15" [ shape="circle",  weight=0 ];
+
+	"y15" -> "y15 AND x15 -> kbj" [ label="y15",  weight=0 ];
+
+	"y15" -> "y15 XOR x15 -> qff" [ label="y15",  weight=0 ];
+
+	"z05" [ shape="square",  weight=0 ];
+
+	"njt OR fjp -> fbg" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"njt OR fjp -> fbg" -> "hbk XOR fbg -> z13" [ label="fbg",  weight=0 ];
+
+	"njt OR fjp -> fbg" -> "hbk AND fbg -> npk" [ label="fbg",  weight=0 ];
+
+	"wcp OR rpp -> msr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"wcp OR rpp -> msr" -> "qcn XOR msr -> z42" [ label="msr",  weight=0 ];
+
+	"wcp OR rpp -> msr" -> "qcn AND msr -> dnf" [ label="msr",  weight=0 ];
+
+	"x24 XOR y24 -> hqn" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x24 XOR y24 -> hqn" -> "pkh XOR hqn -> z24" [ label="hqn",  weight=0 ];
+
+	"x24 XOR y24 -> hqn" -> "pkh AND hqn -> gtq" [ label="hqn",  weight=0 ];
+
+	"bjh XOR stv -> z37" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"bjh XOR stv -> z37" -> "z37" [ label="z37",  weight=0 ];
+
+	"x43" [ shape="circle",  weight=0 ];
+
+	"x43" -> "y43 XOR x43 -> wbk" [ label="x43",  weight=0 ];
+
+	"x43" -> "x43 AND y43 -> scr" [ label="x43",  weight=0 ];
+
+	"y37 XOR x37 -> stv" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y37 XOR x37 -> stv" -> "bjh AND stv -> dqj" [ label="stv",  weight=0 ];
+
+	"y37 XOR x37 -> stv" -> "bjh XOR stv -> z37" [ label="stv",  weight=0 ];
+
+	"x00" [ shape="circle",  weight=0 ];
+
+	"x00" -> "y00 XOR x00 -> z00" [ label="x00",  weight=0 ];
+
+	"x00" -> "x00 AND y00 -> kkc" [ label="x00",  weight=0 ];
+
+	"z24" [ shape="square",  weight=0 ];
+
+	"x17 AND y17 -> tfc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x17 AND y17 -> tfc" -> "tfc OR qhq -> z17" [ label="tfc",  weight=0 ];
+
+	"y31" [ shape="circle",  weight=0 ];
+
+	"y31" -> "x31 XOR y31 -> kqt" [ label="y31",  weight=0 ];
+
+	"y31" -> "x31 AND y31 -> fdc" [ label="y31",  weight=0 ];
+
+	"npn OR jjv -> jpt" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"npn OR jjv -> jpt" -> "jpt XOR jvk -> z02" [ label="jpt",  weight=0 ];
+
+	"npn OR jjv -> jpt" -> "jvk AND jpt -> nnt" [ label="jpt",  weight=0 ];
+
+	"knp OR ffv -> hmc" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"knp OR ffv -> hmc" -> "gjj XOR hmc -> z34" [ label="hmc",  weight=0 ];
+
+	"knp OR ffv -> hmc" -> "hmc AND gjj -> tmf" [ label="hmc",  weight=0 ];
+
+	"z02" [ shape="square",  weight=0 ];
+
+	"y12 AND x12 -> fjp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y12 AND x12 -> fjp" -> "njt OR fjp -> fbg" [ label="fjp",  weight=0 ];
+
+	"tkm AND njr -> rfc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"tkm AND njr -> rfc" -> "msh OR rfc -> z45" [ label="rfc",  weight=0 ];
+
+	"y30" [ shape="circle",  weight=0 ];
+
+	"y30" -> "y30 XOR x30 -> rvp" [ label="y30",  weight=0 ];
+
+	"y30" -> "x30 AND y30 -> z30" [ label="y30",  weight=0 ];
+
+	"wbk AND hdt -> nws" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"wbk AND hdt -> nws" -> "nws OR scr -> tkm" [ label="nws",  weight=0 ];
+
+	"x43 AND y43 -> scr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x43 AND y43 -> scr" -> "nws OR scr -> tkm" [ label="scr",  weight=0 ];
+
+	"bdk AND njp -> fcp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"bdk AND njp -> fcp" -> "tgj OR fcp -> kkf" [ label="fcp",  weight=0 ];
+
+	"x38" [ shape="circle",  weight=0 ];
+
+	"x38" -> "y38 AND x38 -> mwp" [ label="x38",  weight=0 ];
+
+	"x38" -> "y38 XOR x38 -> btb" [ label="x38",  weight=0 ];
+
+	"gdv OR mnf -> dwn" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"gdv OR mnf -> dwn" -> "bmw XOR dwn -> z26" [ label="dwn",  weight=0 ];
+
+	"gdv OR mnf -> dwn" -> "bmw AND dwn -> gjh" [ label="dwn",  weight=0 ];
+
+	"x14" [ shape="circle",  weight=0 ];
+
+	"x14" -> "y14 AND x14 -> bvm" [ label="x14",  weight=0 ];
+
+	"x14" -> "y14 XOR x14 -> qmm" [ label="x14",  weight=0 ];
+
+	"x35" [ shape="circle",  weight=0 ];
+
+	"x35" -> "x35 AND y35 -> pbr" [ label="x35",  weight=0 ];
+
+	"x35" -> "y35 XOR x35 -> gmv" [ label="x35",  weight=0 ];
+
+	"x02" [ shape="circle",  weight=0 ];
+
+	"x02" -> "y02 XOR x02 -> jvk" [ label="x02",  weight=0 ];
+
+	"x02" -> "x02 AND y02 -> nvs" [ label="x02",  weight=0 ];
+
+	"x06 AND y06 -> wgj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x06 AND y06 -> wgj" -> "wgj OR qth -> ncw" [ label="wgj",  weight=0 ];
+
+	"ktr AND cpc -> hvq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"ktr AND cpc -> hvq" -> "hvq OR vvc -> kgr" [ label="hvq",  weight=0 ];
+
+	"x04 AND y04 -> jjg" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x04 AND y04 -> jjg" -> "hgw OR jjg -> qph" [ label="jjg",  weight=0 ];
+
+	"hwk AND jsw -> fnt" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"hwk AND jsw -> fnt" -> "fnt OR gfg -> krw" [ label="fnt",  weight=0 ];
+
+	"y27" [ shape="circle",  weight=0 ];
+
+	"y27" -> "x27 AND y27 -> vvc" [ label="y27",  weight=0 ];
+
+	"y27" -> "y27 XOR x27 -> cpc" [ label="y27",  weight=0 ];
+
+	"y05 AND x05 -> fqb" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y05 AND x05 -> fqb" -> "fqb OR jrk -> qnr" [ label="fqb",  weight=0 ];
+
+	"tpp OR ctj -> cwd" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"tpp OR ctj -> cwd" -> "pwm XOR cwd -> z10" [ label="cwd",  weight=0 ];
+
+	"tpp OR ctj -> cwd" -> "cwd AND pwm -> qtk" [ label="cwd",  weight=0 ];
+
+	"fts AND qrk -> fgm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"fts AND qrk -> fgm" -> "rnk OR fgm -> mng" [ label="fgm",  weight=0 ];
+
+	"mwp AND tsk -> jhw" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"mwp AND tsk -> jhw" -> "btb OR jhw -> dqg" [ label="jhw",  weight=0 ];
+
+	"fhv OR rrh -> nwf" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"fhv OR rrh -> nwf" -> "dsc XOR nwf -> z09" [ label="nwf",  weight=0 ];
+
+	"fhv OR rrh -> nwf" -> "dsc AND nwf -> ctj" [ label="nwf",  weight=0 ];
+
+	"x17" [ shape="circle",  weight=0 ];
+
+	"x17" -> "y17 XOR x17 -> wvj" [ label="x17",  weight=0 ];
+
+	"x17" -> "x17 AND y17 -> tfc" [ label="x17",  weight=0 ];
+
+	"y42" [ shape="circle",  weight=0 ];
+
+	"y42" -> "x42 XOR y42 -> qcn" [ label="y42",  weight=0 ];
+
+	"y42" -> "x42 AND y42 -> hqj" [ label="y42",  weight=0 ];
+
+	"y38" [ shape="circle",  weight=0 ];
+
+	"y38" -> "y38 AND x38 -> mwp" [ label="y38",  weight=0 ];
+
+	"y38" -> "y38 XOR x38 -> btb" [ label="y38",  weight=0 ];
+
+	"y26" [ shape="circle",  weight=0 ];
+
+	"y26" -> "y26 XOR x26 -> bmw" [ label="y26",  weight=0 ];
+
+	"y26" -> "x26 AND y26 -> jpd" [ label="y26",  weight=0 ];
+
+	"y20 AND x20 -> bqd" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y20 AND x20 -> bqd" -> "bqd OR fns -> bwp" [ label="bqd",  weight=0 ];
+
+	"y29" [ shape="circle",  weight=0 ];
+
+	"y29" -> "x29 XOR y29 -> qsg" [ label="y29",  weight=0 ];
+
+	"y29" -> "y29 AND x29 -> dhk" [ label="y29",  weight=0 ];
+
+	"x06 XOR y06 -> mpn" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x06 XOR y06 -> mpn" -> "qnr AND mpn -> qth" [ label="mpn",  weight=0 ];
+
+	"x06 XOR y06 -> mpn" -> "qnr XOR mpn -> z06" [ label="mpn",  weight=0 ];
+
+	"x25 XOR y25 -> nhb" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x25 XOR y25 -> nhb" -> "nhb XOR tcr -> z25" [ label="nhb",  weight=0 ];
+
+	"x25 XOR y25 -> nhb" -> "nhb AND tcr -> gdv" [ label="nhb",  weight=0 ];
+
+	"y41" [ shape="circle",  weight=0 ];
+
+	"y41" -> "x41 XOR y41 -> qvg" [ label="y41",  weight=0 ];
+
+	"y41" -> "x41 AND y41 -> rpp" [ label="y41",  weight=0 ];
+
+	"z35" [ shape="square",  weight=0 ];
+
+	"x33 AND y33 -> ffv" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x33 AND y33 -> ffv" -> "knp OR ffv -> hmc" [ label="ffv",  weight=0 ];
+
+	"z17" [ shape="square",  weight=0 ];
+
+	"z45" [ shape="square",  weight=0 ];
+
+	"y35" [ shape="circle",  weight=0 ];
+
+	"y35" -> "x35 AND y35 -> pbr" [ label="y35",  weight=0 ];
+
+	"y35" -> "y35 XOR x35 -> gmv" [ label="y35",  weight=0 ];
+
+	"y39 AND x39 -> rwb" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y39 AND x39 -> rwb" -> "gwk OR rwb -> qrk" [ label="rwb",  weight=0 ];
+
+	"qff AND dks -> ttr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"qff AND dks -> ttr" -> "kbj OR ttr -> kbw" [ label="ttr",  weight=0 ];
+
+	"z39" [ shape="square",  weight=0 ];
+
+	"kfr OR wjq -> gwg" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"kfr OR wjq -> gwg" -> "gwg AND ggg -> hgw" [ label="gwg",  weight=0 ];
+
+	"kfr OR wjq -> gwg" -> "gwg XOR ggg -> z04" [ label="gwg",  weight=0 ];
+
+	"y02" [ shape="circle",  weight=0 ];
+
+	"y02" -> "x02 AND y02 -> nvs" [ label="y02",  weight=0 ];
+
+	"y02" -> "y02 XOR x02 -> jvk" [ label="y02",  weight=0 ];
+
+	"z12" [ shape="square",  weight=0 ];
+
+	"z42" [ shape="square",  weight=0 ];
+
+	"ksj OR wbw -> mtd" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"ksj OR wbw -> mtd" -> "drf XOR mtd -> z19" [ label="mtd",  weight=0 ];
+
+	"ksj OR wbw -> mtd" -> "mtd AND drf -> mhj" [ label="mtd",  weight=0 ];
+
+	"x41" [ shape="circle",  weight=0 ];
+
+	"x41" -> "x41 XOR y41 -> qvg" [ label="x41",  weight=0 ];
+
+	"x41" -> "x41 AND y41 -> rpp" [ label="x41",  weight=0 ];
+
+	"bmw XOR dwn -> z26" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"bmw XOR dwn -> z26" -> "z26" [ label="z26",  weight=0 ];
+
+	"mng AND qvg -> wcp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"mng AND qvg -> wcp" -> "wcp OR rpp -> msr" [ label="wcp",  weight=0 ];
+
+	"x09" [ shape="circle",  weight=0 ];
+
+	"x09" -> "y09 XOR x09 -> dsc" [ label="x09",  weight=0 ];
+
+	"x09" -> "y09 AND x09 -> tpp" [ label="x09",  weight=0 ];
+
+	"y18" [ shape="circle",  weight=0 ];
+
+	"y18" -> "x18 AND y18 -> ksj" [ label="y18",  weight=0 ];
+
+	"y18" -> "y18 XOR x18 -> fwm" [ label="y18",  weight=0 ];
+
+	"x24" [ shape="circle",  weight=0 ];
+
+	"x24" -> "x24 XOR y24 -> hqn" [ label="x24",  weight=0 ];
+
+	"x24" -> "y24 AND x24 -> vjw" [ label="x24",  weight=0 ];
+
+	"fqb OR jrk -> qnr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"fqb OR jrk -> qnr" -> "qnr XOR mpn -> z06" [ label="qnr",  weight=0 ];
+
+	"fqb OR jrk -> qnr" -> "qnr AND mpn -> qth" [ label="qnr",  weight=0 ];
+
+	"y36 AND x36 -> vfw" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y36 AND x36 -> vfw" -> "vfw OR nqq -> bjh" [ label="vfw",  weight=0 ];
+
+	"y43 XOR x43 -> wbk" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y43 XOR x43 -> wbk" -> "wbk AND hdt -> nws" [ label="wbk",  weight=0 ];
+
+	"y43 XOR x43 -> wbk" -> "hdt XOR wbk -> z43" [ label="wbk",  weight=0 ];
+
+	"x23" [ shape="circle",  weight=0 ];
+
+	"x23" -> "x23 AND y23 -> frg" [ label="x23",  weight=0 ];
+
+	"x23" -> "x23 XOR y23 -> pbw" [ label="x23",  weight=0 ];
+
+	"jkg XOR bwp -> z21" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"jkg XOR bwp -> z21" -> "z21" [ label="z21",  weight=0 ];
+
+	"x34 XOR y34 -> gjj" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x34 XOR y34 -> gjj" -> "hmc AND gjj -> tmf" [ label="gjj",  weight=0 ];
+
+	"x34 XOR y34 -> gjj" -> "gjj XOR hmc -> z34" [ label="gjj",  weight=0 ];
+
+	"y44" [ shape="circle",  weight=0 ];
+
+	"y44" -> "y44 XOR x44 -> njr" [ label="y44",  weight=0 ];
+
+	"y44" -> "x44 AND y44 -> msh" [ label="y44",  weight=0 ];
+
+	"y39 XOR x39 -> kjv" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y39 XOR x39 -> kjv" -> "kjv AND dqg -> gwk" [ label="kjv",  weight=0 ];
+
+	"y39 XOR x39 -> kjv" -> "kjv XOR dqg -> z39" [ label="kjv",  weight=0 ];
+
+	"y30 XOR x30 -> rvp" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y30 XOR x30 -> rvp" -> "knj XOR rvp -> rdg" [ label="rvp",  weight=0 ];
+
+	"y30 XOR x30 -> rvp" -> "knj AND rvp -> dqs" [ label="rvp",  weight=0 ];
+
+	"z23" [ shape="square",  weight=0 ];
+
+	"kdt AND kgr -> ctp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"kdt AND kgr -> ctp" -> "ctp OR rjr -> msw" [ label="ctp",  weight=0 ];
+
+	"qcn XOR msr -> z42" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qcn XOR msr -> z42" -> "z42" [ label="z42",  weight=0 ];
+
+	"qtk OR qwc -> jsw" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"qtk OR qwc -> jsw" -> "hwk AND jsw -> fnt" [ label="jsw",  weight=0 ];
+
+	"qtk OR qwc -> jsw" -> "jsw XOR hwk -> z11" [ label="jsw",  weight=0 ];
+
+	"y14" [ shape="circle",  weight=0 ];
+
+	"y14" -> "y14 AND x14 -> bvm" [ label="y14",  weight=0 ];
+
+	"y14" -> "y14 XOR x14 -> qmm" [ label="y14",  weight=0 ];
+
+	"x27 AND y27 -> vvc" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x27 AND y27 -> vvc" -> "hvq OR vvc -> kgr" [ label="vvc",  weight=0 ];
+
+	"tgj OR fcp -> kkf" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"tgj OR fcp -> kkf" -> "kkf XOR pbw -> rmj" [ label="kkf",  weight=0 ];
+
+	"tgj OR fcp -> kkf" -> "kkf AND pbw -> z23" [ label="kkf",  weight=0 ];
+
+	"qmm AND std -> mts" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"qmm AND std -> mts" -> "mts OR bvm -> dks" [ label="mts",  weight=0 ];
+
+	"krw AND wnm -> njt" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"krw AND wnm -> njt" -> "njt OR fjp -> fbg" [ label="njt",  weight=0 ];
+
+	"y00 XOR x00 -> z00" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y00 XOR x00 -> z00" -> "z00" [ label="z00",  weight=0 ];
+
+	"y12" [ shape="circle",  weight=0 ];
+
+	"y12" -> "y12 XOR x12 -> wnm" [ label="y12",  weight=0 ];
+
+	"y12" -> "y12 AND x12 -> fjp" [ label="y12",  weight=0 ];
+
+	"hrn XOR bfj -> z32" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"hrn XOR bfj -> z32" -> "z32" [ label="z32",  weight=0 ];
+
+	"y28" [ shape="circle",  weight=0 ];
+
+	"y28" -> "x28 XOR y28 -> kdt" [ label="y28",  weight=0 ];
+
+	"y28" -> "x28 AND y28 -> rjr" [ label="y28",  weight=0 ];
+
+	"x08 XOR y08 -> cfd" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x08 XOR y08 -> cfd" -> "nfs XOR cfd -> z08" [ label="cfd",  weight=0 ];
+
+	"x08 XOR y08 -> cfd" -> "cfd AND nfs -> rrh" [ label="cfd",  weight=0 ];
+
+	"tsk XOR mwp -> z38" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"tsk XOR mwp -> z38" -> "z38" [ label="z38",  weight=0 ];
+
+	"y33" [ shape="circle",  weight=0 ];
+
+	"y33" -> "x33 AND y33 -> ffv" [ label="y33",  weight=0 ];
+
+	"y33" -> "x33 XOR y33 -> snw" [ label="y33",  weight=0 ];
+
+	"x20 XOR y20 -> ckr" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x20 XOR y20 -> ckr" -> "dmf XOR ckr -> z20" [ label="ckr",  weight=0 ];
+
+	"x20 XOR y20 -> ckr" -> "ckr AND dmf -> fns" [ label="ckr",  weight=0 ];
+
+	"dbr OR pbr -> tjp" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"dbr OR pbr -> tjp" -> "rbm XOR tjp -> z36" [ label="tjp",  weight=0 ];
+
+	"dbr OR pbr -> tjp" -> "tjp AND rbm -> nqq" [ label="tjp",  weight=0 ];
+
+	"y11" [ shape="circle",  weight=0 ];
+
+	"y11" -> "y11 XOR x11 -> hwk" [ label="y11",  weight=0 ];
+
+	"y11" -> "x11 AND y11 -> gfg" [ label="y11",  weight=0 ];
+
+	"drf XOR mtd -> z19" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"drf XOR mtd -> z19" -> "z19" [ label="z19",  weight=0 ];
+
+	"z01" [ shape="square",  weight=0 ];
+
+	"x21 AND y21 -> fvf" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x21 AND y21 -> fvf" -> "fvf OR crb -> bdk" [ label="fvf",  weight=0 ];
+
+	"gwg AND ggg -> hgw" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"gwg AND ggg -> hgw" -> "hgw OR jjg -> qph" [ label="hgw",  weight=0 ];
+
+	"qwd OR swm -> qwg" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"qwd OR swm -> qwg" -> "qwg AND wvj -> qhq" [ label="qwg",  weight=0 ];
+
+	"qwd OR swm -> qwg" -> "wvj XOR qwg -> cmv" [ label="qwg",  weight=0 ];
+
+	"kbj OR ttr -> kbw" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"kbj OR ttr -> kbw" -> "kbw XOR wnf -> z16" [ label="kbw",  weight=0 ];
+
+	"kbj OR ttr -> kbw" -> "wnf AND kbw -> swm" [ label="kbw",  weight=0 ];
+
+	"x04" [ shape="circle",  weight=0 ];
+
+	"x04" -> "y04 XOR x04 -> ggg" [ label="x04",  weight=0 ];
+
+	"x04" -> "x04 AND y04 -> jjg" [ label="x04",  weight=0 ];
+
+	"qcn AND msr -> dnf" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"qcn AND msr -> dnf" -> "dnf OR hqj -> hdt" [ label="dnf",  weight=0 ];
+
+	"x16 AND y16 -> qwd" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x16 AND y16 -> qwd" -> "qwd OR swm -> qwg" [ label="qwd",  weight=0 ];
+
+	"y00" [ shape="circle",  weight=0 ];
+
+	"y00" -> "y00 XOR x00 -> z00" [ label="y00",  weight=0 ];
+
+	"y00" -> "x00 AND y00 -> kkc" [ label="y00",  weight=0 ];
+
+	"x05" [ shape="circle",  weight=0 ];
+
+	"x05" -> "y05 AND x05 -> fqb" [ label="x05",  weight=0 ];
+
+	"x05" -> "x05 XOR y05 -> skf" [ label="x05",  weight=0 ];
+
+	"y03 AND x03 -> kfr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y03 AND x03 -> kfr" -> "kfr OR wjq -> gwg" [ label="kfr",  weight=0 ];
+
+	"tjp AND rbm -> nqq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"tjp AND rbm -> nqq" -> "vfw OR nqq -> bjh" [ label="nqq",  weight=0 ];
+
+	"rbm XOR tjp -> z36" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"rbm XOR tjp -> z36" -> "z36" [ label="z36",  weight=0 ];
+
+	"gmv AND vfn -> dbr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"gmv AND vfn -> dbr" -> "dbr OR pbr -> tjp" [ label="dbr",  weight=0 ];
+
+	"x03" [ shape="circle",  weight=0 ];
+
+	"x03" -> "x03 XOR y03 -> dnk" [ label="x03",  weight=0 ];
+
+	"x03" -> "y03 AND x03 -> kfr" [ label="x03",  weight=0 ];
+
+	"y19" [ shape="circle",  weight=0 ];
+
+	"y19" -> "x19 XOR y19 -> drf" [ label="y19",  weight=0 ];
+
+	"y19" -> "x19 AND y19 -> sgm" [ label="y19",  weight=0 ];
+
+	"knj AND rvp -> dqs" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"knj AND rvp -> dqs" -> "rdg OR dqs -> nmr" [ label="dqs",  weight=0 ];
+
+	"dmf XOR ckr -> z20" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"dmf XOR ckr -> z20" -> "z20" [ label="z20",  weight=0 ];
+
+	"x23 AND y23 -> frg" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x23 AND y23 -> frg" -> "frg OR rmj -> pkh" [ label="frg",  weight=0 ];
+
+	"y04" [ shape="circle",  weight=0 ];
+
+	"y04" -> "y04 XOR x04 -> ggg" [ label="y04",  weight=0 ];
+
+	"y04" -> "x04 AND y04 -> jjg" [ label="y04",  weight=0 ];
+
+	"jpd OR gjh -> ktr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"jpd OR gjh -> ktr" -> "ktr AND cpc -> hvq" [ label="ktr",  weight=0 ];
+
+	"jpd OR gjh -> ktr" -> "ktr XOR cpc -> z27" [ label="ktr",  weight=0 ];
+
+	"hbk AND fbg -> npk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"hbk AND fbg -> npk" -> "rsm OR npk -> std" [ label="npk",  weight=0 ];
+
+	"x02 AND y02 -> nvs" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x02 AND y02 -> nvs" -> "nvs OR nnt -> wcj" [ label="nvs",  weight=0 ];
+
+	"x28 XOR y28 -> kdt" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x28 XOR y28 -> kdt" -> "kdt AND kgr -> ctp" [ label="kdt",  weight=0 ];
+
+	"x28 XOR y28 -> kdt" -> "kgr XOR kdt -> z28" [ label="kdt",  weight=0 ];
+
+	"qnr AND mpn -> qth" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"qnr AND mpn -> qth" -> "wgj OR qth -> ncw" [ label="qth",  weight=0 ];
+
+	"z28" [ shape="square",  weight=0 ];
+
+	"x03 XOR y03 -> dnk" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x03 XOR y03 -> dnk" -> "dnk AND wcj -> wjq" [ label="dnk",  weight=0 ];
+
+	"x03 XOR y03 -> dnk" -> "wcj XOR dnk -> z03" [ label="dnk",  weight=0 ];
+
+	"kjv AND dqg -> gwk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"kjv AND dqg -> gwk" -> "gwk OR rwb -> qrk" [ label="gwk",  weight=0 ];
+
+	"knj XOR rvp -> rdg" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"knj XOR rvp -> rdg" -> "rdg OR dqs -> nmr" [ label="rdg",  weight=0 ];
+
+	"dsc XOR nwf -> z09" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"dsc XOR nwf -> z09" -> "z09" [ label="z09",  weight=0 ];
+
+	"bjh AND stv -> dqj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"bjh AND stv -> dqj" -> "bqj OR dqj -> tsk" [ label="dqj",  weight=0 ];
+
+	"y37 AND x37 -> bqj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y37 AND x37 -> bqj" -> "bqj OR dqj -> tsk" [ label="bqj",  weight=0 ];
+
+	"hbk XOR fbg -> z13" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"hbk XOR fbg -> z13" -> "z13" [ label="z13",  weight=0 ];
+
+	"y09 XOR x09 -> dsc" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y09 XOR x09 -> dsc" -> "dsc XOR nwf -> z09" [ label="dsc",  weight=0 ];
+
+	"y09 XOR x09 -> dsc" -> "dsc AND nwf -> ctj" [ label="dsc",  weight=0 ];
+
+	"kpd XOR snw -> z33" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kpd XOR snw -> z33" -> "z33" [ label="z33",  weight=0 ];
+
+	"mhj OR sgm -> dmf" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"mhj OR sgm -> dmf" -> "dmf XOR ckr -> z20" [ label="dmf",  weight=0 ];
+
+	"mhj OR sgm -> dmf" -> "ckr AND dmf -> fns" [ label="dmf",  weight=0 ];
+
+	"y18 XOR x18 -> fwm" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y18 XOR x18 -> fwm" -> "cmv AND fwm -> wbw" [ label="fwm",  weight=0 ];
+
+	"y18 XOR x18 -> fwm" -> "cmv XOR fwm -> z18" [ label="fwm",  weight=0 ];
+
+	"y17 XOR x17 -> wvj" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y17 XOR x17 -> wvj" -> "qwg AND wvj -> qhq" [ label="wvj",  weight=0 ];
+
+	"y17 XOR x17 -> wvj" -> "wvj XOR qwg -> cmv" [ label="wvj",  weight=0 ];
+
+	"x13 XOR y13 -> hbk" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x13 XOR y13 -> hbk" -> "hbk XOR fbg -> z13" [ label="hbk",  weight=0 ];
+
+	"x13 XOR y13 -> hbk" -> "hbk AND fbg -> npk" [ label="hbk",  weight=0 ];
+
+	"y25" [ shape="circle",  weight=0 ];
+
+	"y25" -> "x25 XOR y25 -> nhb" [ label="y25",  weight=0 ];
+
+	"y25" -> "y25 AND x25 -> mnf" [ label="y25",  weight=0 ];
+
+	"hmc AND gjj -> tmf" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"hmc AND gjj -> tmf" -> "hkn OR tmf -> vfn" [ label="tmf",  weight=0 ];
+
+	"cmv AND fwm -> wbw" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"cmv AND fwm -> wbw" -> "ksj OR wbw -> mtd" [ label="wbw",  weight=0 ];
+
+	"z11" [ shape="square",  weight=0 ];
+
+	"dsc AND nwf -> ctj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"dsc AND nwf -> ctj" -> "tpp OR ctj -> cwd" [ label="ctj",  weight=0 ];
+
+	"z03" [ shape="square",  weight=0 ];
+
+	"y36" [ shape="circle",  weight=0 ];
+
+	"y36" -> "y36 AND x36 -> vfw" [ label="y36",  weight=0 ];
+
+	"y36" -> "y36 XOR x36 -> rbm" [ label="y36",  weight=0 ];
+
+	"y22" [ shape="circle",  weight=0 ];
+
+	"y22" -> "x22 XOR y22 -> njp" [ label="y22",  weight=0 ];
+
+	"y22" -> "y22 AND x22 -> tgj" [ label="y22",  weight=0 ];
+
+	"y16 XOR x16 -> wnf" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y16 XOR x16 -> wnf" -> "wnf AND kbw -> swm" [ label="wnf",  weight=0 ];
+
+	"y16 XOR x16 -> wnf" -> "kbw XOR wnf -> z16" [ label="wnf",  weight=0 ];
+
+	"ctp OR rjr -> msw" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"ctp OR rjr -> msw" -> "msw AND qsg -> ntq" [ label="msw",  weight=0 ];
+
+	"ctp OR rjr -> msw" -> "qsg XOR msw -> z29" [ label="msw",  weight=0 ];
+
+	"y34" [ shape="circle",  weight=0 ];
+
+	"y34" -> "x34 XOR y34 -> gjj" [ label="y34",  weight=0 ];
+
+	"y34" -> "y34 AND x34 -> hkn" [ label="y34",  weight=0 ];
+
+	"tfc OR qhq -> z17" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"tfc OR qhq -> z17" -> "z17" [ label="z17",  weight=0 ];
+
+	"kgr XOR kdt -> z28" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kgr XOR kdt -> z28" -> "z28" [ label="z28",  weight=0 ];
+
+	"skf AND qph -> jrk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"skf AND qph -> jrk" -> "fqb OR jrk -> qnr" [ label="jrk",  weight=0 ];
+
+	"y38 AND x38 -> mwp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y38 AND x38 -> mwp" -> "tsk XOR mwp -> z38" [ label="mwp",  weight=0 ];
+
+	"y38 AND x38 -> mwp" -> "mwp AND tsk -> jhw" [ label="mwp",  weight=0 ];
+
+	"x44" [ shape="circle",  weight=0 ];
+
+	"x44" -> "y44 XOR x44 -> njr" [ label="x44",  weight=0 ];
+
+	"x44" -> "x44 AND y44 -> msh" [ label="x44",  weight=0 ];
+
+	"kpd AND snw -> knp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"kpd AND snw -> knp" -> "knp OR ffv -> hmc" [ label="knp",  weight=0 ];
+
+	"y24 AND x24 -> vjw" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y24 AND x24 -> vjw" -> "gtq OR vjw -> tcr" [ label="vjw",  weight=0 ];
+
+	"wgj OR qth -> ncw" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"wgj OR qth -> ncw" -> "ncw AND btr -> qnk" [ label="ncw",  weight=0 ];
+
+	"wgj OR qth -> ncw" -> "ncw XOR btr -> z07" [ label="ncw",  weight=0 ];
+
+	"z20" [ shape="square",  weight=0 ];
+
+	"y05" [ shape="circle",  weight=0 ];
+
+	"y05" -> "x05 XOR y05 -> skf" [ label="y05",  weight=0 ];
+
+	"y05" -> "y05 AND x05 -> fqb" [ label="y05",  weight=0 ];
+
+	"y07" [ shape="circle",  weight=0 ];
+
+	"y07" -> "y07 XOR x07 -> btr" [ label="y07",  weight=0 ];
+
+	"y07" -> "x07 AND y07 -> sqm" [ label="y07",  weight=0 ];
+
+	"bqj OR dqj -> tsk" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"bqj OR dqj -> tsk" -> "tsk XOR mwp -> z38" [ label="tsk",  weight=0 ];
+
+	"bqj OR dqj -> tsk" -> "mwp AND tsk -> jhw" [ label="tsk",  weight=0 ];
+
+	"ncw XOR btr -> z07" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"ncw XOR btr -> z07" -> "z07" [ label="z07",  weight=0 ];
+
+	"x33 XOR y33 -> snw" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x33 XOR y33 -> snw" -> "kpd AND snw -> knp" [ label="snw",  weight=0 ];
+
+	"x33 XOR y33 -> snw" -> "kpd XOR snw -> z33" [ label="snw",  weight=0 ];
+
+	"z13" [ shape="square",  weight=0 ];
+
+	"qff XOR dks -> z15" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qff XOR dks -> z15" -> "z15" [ label="z15",  weight=0 ];
+
+	"y04 XOR x04 -> ggg" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y04 XOR x04 -> ggg" -> "gwg XOR ggg -> z04" [ label="ggg",  weight=0 ];
+
+	"y04 XOR x04 -> ggg" -> "gwg AND ggg -> hgw" [ label="ggg",  weight=0 ];
+
+	"x30" [ shape="circle",  weight=0 ];
+
+	"x30" -> "y30 XOR x30 -> rvp" [ label="x30",  weight=0 ];
+
+	"x30" -> "x30 AND y30 -> z30" [ label="x30",  weight=0 ];
+
+	"x11" [ shape="circle",  weight=0 ];
+
+	"x11" -> "y11 XOR x11 -> hwk" [ label="x11",  weight=0 ];
+
+	"x11" -> "x11 AND y11 -> gfg" [ label="x11",  weight=0 ];
+
+	"x08" [ shape="circle",  weight=0 ];
+
+	"x08" -> "x08 XOR y08 -> cfd" [ label="x08",  weight=0 ];
+
+	"x08" -> "x08 AND y08 -> fhv" [ label="x08",  weight=0 ];
+
+	"y14 XOR x14 -> qmm" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y14 XOR x14 -> qmm" -> "qmm AND std -> mts" [ label="qmm",  weight=0 ];
+
+	"y14 XOR x14 -> qmm" -> "std XOR qmm -> z14" [ label="qmm",  weight=0 ];
+
+	"x26 AND y26 -> jpd" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x26 AND y26 -> jpd" -> "jpd OR gjh -> ktr" [ label="jpd",  weight=0 ];
+
+	"jpt XOR jvk -> z02" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"jpt XOR jvk -> z02" -> "z02" [ label="z02",  weight=0 ];
+
+	"x37" [ shape="circle",  weight=0 ];
+
+	"x37" -> "y37 XOR x37 -> stv" [ label="x37",  weight=0 ];
+
+	"x37" -> "y37 AND x37 -> bqj" [ label="x37",  weight=0 ];
+
+	"x01" [ shape="circle",  weight=0 ];
+
+	"x01" -> "y01 XOR x01 -> kjh" [ label="x01",  weight=0 ];
+
+	"x01" -> "y01 AND x01 -> npn" [ label="x01",  weight=0 ];
+
+	"jkg AND bwp -> crb" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"jkg AND bwp -> crb" -> "fvf OR crb -> bdk" [ label="crb",  weight=0 ];
+
+	"qvg XOR mng -> z41" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qvg XOR mng -> z41" -> "z41" [ label="z41",  weight=0 ];
+
+	"y40 XOR x40 -> fts" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y40 XOR x40 -> fts" -> "fts AND qrk -> fgm" [ label="fts",  weight=0 ];
+
+	"y40 XOR x40 -> fts" -> "fts XOR qrk -> z40" [ label="fts",  weight=0 ];
+
+	"qwg AND wvj -> qhq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"qwg AND wvj -> qhq" -> "tfc OR qhq -> z17" [ label="qhq",  weight=0 ];
+
+	"x10" [ shape="circle",  weight=0 ];
+
+	"x10" -> "x10 XOR y10 -> pwm" [ label="x10",  weight=0 ];
+
+	"x10" -> "x10 AND y10 -> qwc" [ label="x10",  weight=0 ];
+
+	"z26" [ shape="square",  weight=0 ];
+
+	"y39" [ shape="circle",  weight=0 ];
+
+	"y39" -> "y39 XOR x39 -> kjv" [ label="y39",  weight=0 ];
+
+	"y39" -> "y39 AND x39 -> rwb" [ label="y39",  weight=0 ];
+
+	"y32" [ shape="circle",  weight=0 ];
+
+	"y32" -> "x32 AND y32 -> wsv" [ label="y32",  weight=0 ];
+
+	"y32" -> "y32 XOR x32 -> bfj" [ label="y32",  weight=0 ];
+
+	"z04" [ shape="square",  weight=0 ];
+
+	"frg OR rmj -> pkh" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"frg OR rmj -> pkh" -> "pkh AND hqn -> gtq" [ label="pkh",  weight=0 ];
+
+	"frg OR rmj -> pkh" -> "pkh XOR hqn -> z24" [ label="pkh",  weight=0 ];
+
+	"y12 XOR x12 -> wnm" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y12 XOR x12 -> wnm" -> "krw AND wnm -> njt" [ label="wnm",  weight=0 ];
+
+	"y12 XOR x12 -> wnm" -> "krw XOR wnm -> z12" [ label="wnm",  weight=0 ];
+
+	"pkh AND hqn -> gtq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"pkh AND hqn -> gtq" -> "gtq OR vjw -> tcr" [ label="gtq",  weight=0 ];
+
+	"hrn AND bfj -> wqs" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"hrn AND bfj -> wqs" -> "wsv OR wqs -> kpd" [ label="wqs",  weight=0 ];
+
+	"y06" [ shape="circle",  weight=0 ];
+
+	"y06" -> "x06 AND y06 -> wgj" [ label="y06",  weight=0 ];
+
+	"y06" -> "x06 XOR y06 -> mpn" [ label="y06",  weight=0 ];
+
+	"njr XOR tkm -> z44" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"njr XOR tkm -> z44" -> "z44" [ label="z44",  weight=0 ];
+
+	"x18" [ shape="circle",  weight=0 ];
+
+	"x18" -> "x18 AND y18 -> ksj" [ label="x18",  weight=0 ];
+
+	"x18" -> "y18 XOR x18 -> fwm" [ label="x18",  weight=0 ];
+
+	"hgw OR jjg -> qph" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"hgw OR jjg -> qph" -> "skf AND qph -> jrk" [ label="qph",  weight=0 ];
+
+	"hgw OR jjg -> qph" -> "qph XOR skf -> z05" [ label="qph",  weight=0 ];
+
+	"rnk OR fgm -> mng" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"rnk OR fgm -> mng" -> "qvg XOR mng -> z41" [ label="mng",  weight=0 ];
+
+	"rnk OR fgm -> mng" -> "mng AND qvg -> wcp" [ label="mng",  weight=0 ];
+
+	"nhb XOR tcr -> z25" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"nhb XOR tcr -> z25" -> "z25" [ label="z25",  weight=0 ];
+
+	"y26 XOR x26 -> bmw" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y26 XOR x26 -> bmw" -> "bmw XOR dwn -> z26" [ label="bmw",  weight=0 ];
+
+	"y26 XOR x26 -> bmw" -> "bmw AND dwn -> gjh" [ label="bmw",  weight=0 ];
+
+	"y14 AND x14 -> bvm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y14 AND x14 -> bvm" -> "mts OR bvm -> dks" [ label="bvm",  weight=0 ];
+
+	"y23" [ shape="circle",  weight=0 ];
+
+	"y23" -> "x23 AND y23 -> frg" [ label="y23",  weight=0 ];
+
+	"y23" -> "x23 XOR y23 -> pbw" [ label="y23",  weight=0 ];
+
+	"x27" [ shape="circle",  weight=0 ];
+
+	"x27" -> "x27 AND y27 -> vvc" [ label="x27",  weight=0 ];
+
+	"x27" -> "y27 XOR x27 -> cpc" [ label="x27",  weight=0 ];
+
+	"bdk XOR njp -> z22" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"bdk XOR njp -> z22" -> "z22" [ label="z22",  weight=0 ];
+
+	"z37" [ shape="square",  weight=0 ];
+
+	"y44 XOR x44 -> njr" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y44 XOR x44 -> njr" -> "njr XOR tkm -> z44" [ label="njr",  weight=0 ];
+
+	"y44 XOR x44 -> njr" -> "tkm AND njr -> rfc" [ label="njr",  weight=0 ];
+
+	"z15" [ shape="square",  weight=0 ];
+
+	"y34 AND x34 -> hkn" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y34 AND x34 -> hkn" -> "hkn OR tmf -> vfn" [ label="hkn",  weight=0 ];
+
+	"wsv OR wqs -> kpd" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"wsv OR wqs -> kpd" -> "kpd XOR snw -> z33" [ label="kpd",  weight=0 ];
+
+	"wsv OR wqs -> kpd" -> "kpd AND snw -> knp" [ label="kpd",  weight=0 ];
+
+	"z36" [ shape="square",  weight=0 ];
+
+	"gjj XOR hmc -> z34" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"gjj XOR hmc -> z34" -> "z34" [ label="z34",  weight=0 ];
+
+	"y35 XOR x35 -> gmv" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y35 XOR x35 -> gmv" -> "gmv AND vfn -> dbr" [ label="gmv",  weight=0 ];
+
+	"y35 XOR x35 -> gmv" -> "gmv XOR vfn -> z35" [ label="gmv",  weight=0 ];
+
+	"y27 XOR x27 -> cpc" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y27 XOR x27 -> cpc" -> "ktr AND cpc -> hvq" [ label="cpc",  weight=0 ];
+
+	"y27 XOR x27 -> cpc" -> "ktr XOR cpc -> z27" [ label="cpc",  weight=0 ];
+
+	"bgk OR fdc -> hrn" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"bgk OR fdc -> hrn" -> "hrn XOR bfj -> z32" [ label="hrn",  weight=0 ];
+
+	"bgk OR fdc -> hrn" -> "hrn AND bfj -> wqs" [ label="hrn",  weight=0 ];
+
+	"x05 XOR y05 -> skf" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x05 XOR y05 -> skf" -> "qph XOR skf -> z05" [ label="skf",  weight=0 ];
+
+	"x05 XOR y05 -> skf" -> "skf AND qph -> jrk" [ label="skf",  weight=0 ];
+
+	"kjh AND kkc -> jjv" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"kjh AND kkc -> jjv" -> "npn OR jjv -> jpt" [ label="jjv",  weight=0 ];
+
+	"x44 AND y44 -> msh" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x44 AND y44 -> msh" -> "msh OR rfc -> z45" [ label="msh",  weight=0 ];
+
+	"kkf XOR pbw -> rmj" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kkf XOR pbw -> rmj" -> "frg OR rmj -> pkh" [ label="rmj",  weight=0 ];
+
+	"z41" [ shape="square",  weight=0 ];
+
+	"x21" [ shape="circle",  weight=0 ];
+
+	"x21" -> "y21 XOR x21 -> jkg" [ label="x21",  weight=0 ];
+
+	"x21" -> "x21 AND y21 -> fvf" [ label="x21",  weight=0 ];
+
+	"y40 AND x40 -> rnk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y40 AND x40 -> rnk" -> "rnk OR fgm -> mng" [ label="rnk",  weight=0 ];
+
+	"kjh XOR kkc -> z01" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kjh XOR kkc -> z01" -> "z01" [ label="z01",  weight=0 ];
+
+	"y03" [ shape="circle",  weight=0 ];
+
+	"y03" -> "x03 XOR y03 -> dnk" [ label="y03",  weight=0 ];
+
+	"y03" -> "y03 AND x03 -> kfr" [ label="y03",  weight=0 ];
+
+	"y17" [ shape="circle",  weight=0 ];
+
+	"y17" -> "x17 AND y17 -> tfc" [ label="y17",  weight=0 ];
+
+	"y17" -> "y17 XOR x17 -> wvj" [ label="y17",  weight=0 ];
+
+	"x16" [ shape="circle",  weight=0 ];
+
+	"x16" -> "y16 XOR x16 -> wnf" [ label="x16",  weight=0 ];
+
+	"x16" -> "x16 AND y16 -> qwd" [ label="x16",  weight=0 ];
+
+	"std XOR qmm -> z14" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"std XOR qmm -> z14" -> "z14" [ label="z14",  weight=0 ];
+
+	"x29 XOR y29 -> qsg" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x29 XOR y29 -> qsg" -> "qsg XOR msw -> z29" [ label="qsg",  weight=0 ];
+
+	"x29 XOR y29 -> qsg" -> "msw AND qsg -> ntq" [ label="qsg",  weight=0 ];
+
+	"wnf AND kbw -> swm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"wnf AND kbw -> swm" -> "qwd OR swm -> qwg" [ label="swm",  weight=0 ];
+
+	"z00" [ shape="square",  weight=0 ];
+
+	"x42 AND y42 -> hqj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x42 AND y42 -> hqj" -> "dnf OR hqj -> hdt" [ label="hqj",  weight=0 ];
+
+	"wcj XOR dnk -> z03" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"wcj XOR dnk -> z03" -> "z03" [ label="z03",  weight=0 ];
+
+	"z34" [ shape="square",  weight=0 ];
+
+	"jsw XOR hwk -> z11" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"jsw XOR hwk -> z11" -> "z11" [ label="z11",  weight=0 ];
+
+	"z29" [ shape="square",  weight=0 ];
+
+	"x40" [ shape="circle",  weight=0 ];
+
+	"x40" -> "y40 XOR x40 -> fts" [ label="x40",  weight=0 ];
+
+	"x40" -> "y40 AND x40 -> rnk" [ label="x40",  weight=0 ];
+
+	"y43" [ shape="circle",  weight=0 ];
+
+	"y43" -> "x43 AND y43 -> scr" [ label="y43",  weight=0 ];
+
+	"y43" -> "y43 XOR x43 -> wbk" [ label="y43",  weight=0 ];
+
+	"x22 XOR y22 -> njp" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x22 XOR y22 -> njp" -> "bdk AND njp -> fcp" [ label="njp",  weight=0 ];
+
+	"x22 XOR y22 -> njp" -> "bdk XOR njp -> z22" [ label="njp",  weight=0 ];
+
+	"gtq OR vjw -> tcr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"gtq OR vjw -> tcr" -> "nhb AND tcr -> gdv" [ label="tcr",  weight=0 ];
+
+	"gtq OR vjw -> tcr" -> "nhb XOR tcr -> z25" [ label="tcr",  weight=0 ];
+
+	"y10" [ shape="circle",  weight=0 ];
+
+	"y10" -> "x10 AND y10 -> qwc" [ label="y10",  weight=0 ];
+
+	"y10" -> "x10 XOR y10 -> pwm" [ label="y10",  weight=0 ];
+
+	"z07" [ shape="square",  weight=0 ];
+
+	"y24" [ shape="circle",  weight=0 ];
+
+	"y24" -> "y24 AND x24 -> vjw" [ label="y24",  weight=0 ];
+
+	"y24" -> "x24 XOR y24 -> hqn" [ label="y24",  weight=0 ];
+
+	"y21 XOR x21 -> jkg" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y21 XOR x21 -> jkg" -> "jkg AND bwp -> crb" [ label="jkg",  weight=0 ];
+
+	"y21 XOR x21 -> jkg" -> "jkg XOR bwp -> z21" [ label="jkg",  weight=0 ];
+
+	"y02 XOR x02 -> jvk" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y02 XOR x02 -> jvk" -> "jvk AND jpt -> nnt" [ label="jvk",  weight=0 ];
+
+	"y02 XOR x02 -> jvk" -> "jpt XOR jvk -> z02" [ label="jvk",  weight=0 ];
+
+	"x12" [ shape="circle",  weight=0 ];
+
+	"x12" -> "y12 XOR x12 -> wnm" [ label="x12",  weight=0 ];
+
+	"x12" -> "y12 AND x12 -> fjp" [ label="x12",  weight=0 ];
+
+	"x35 AND y35 -> pbr" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x35 AND y35 -> pbr" -> "dbr OR pbr -> tjp" [ label="pbr",  weight=0 ];
+
+	"x20" [ shape="circle",  weight=0 ];
+
+	"x20" -> "x20 XOR y20 -> ckr" [ label="x20",  weight=0 ];
+
+	"x20" -> "y20 AND x20 -> bqd" [ label="x20",  weight=0 ];
+
+	"z31" [ shape="square",  weight=0 ];
+
+	"wvj XOR qwg -> cmv" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"wvj XOR qwg -> cmv" -> "cmv AND fwm -> wbw" [ label="cmv",  weight=0 ];
+
+	"wvj XOR qwg -> cmv" -> "cmv XOR fwm -> z18" [ label="cmv",  weight=0 ];
+
+	"x19 AND y19 -> sgm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x19 AND y19 -> sgm" -> "mhj OR sgm -> dmf" [ label="sgm",  weight=0 ];
+
+	"kbw XOR wnf -> z16" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kbw XOR wnf -> z16" -> "z16" [ label="z16",  weight=0 ];
+
+	"z14" [ shape="square",  weight=0 ];
+
+	"hvq OR vvc -> kgr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"hvq OR vvc -> kgr" -> "kgr XOR kdt -> z28" [ label="kgr",  weight=0 ];
+
+	"hvq OR vvc -> kgr" -> "kdt AND kgr -> ctp" [ label="kgr",  weight=0 ];
+
+	"z10" [ shape="square",  weight=0 ];
+
+	"y37" [ shape="circle",  weight=0 ];
+
+	"y37" -> "y37 AND x37 -> bqj" [ label="y37",  weight=0 ];
+
+	"y37" -> "y37 XOR x37 -> stv" [ label="y37",  weight=0 ];
+
+	"nmr XOR kqt -> z31" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"nmr XOR kqt -> z31" -> "z31" [ label="z31",  weight=0 ];
+
+	"fts XOR qrk -> z40" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"fts XOR qrk -> z40" -> "z40" [ label="z40",  weight=0 ];
+
+	"x18 AND y18 -> ksj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"x18 AND y18 -> ksj" -> "ksj OR wbw -> mtd" [ label="ksj",  weight=0 ];
+
+	"fvf OR crb -> bdk" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"fvf OR crb -> bdk" -> "bdk AND njp -> fcp" [ label="bdk",  weight=0 ];
+
+	"fvf OR crb -> bdk" -> "bdk XOR njp -> z22" [ label="bdk",  weight=0 ];
+
+	"y13" [ shape="circle",  weight=0 ];
+
+	"y13" -> "y13 AND x13 -> rsm" [ label="y13",  weight=0 ];
+
+	"y13" -> "x13 XOR y13 -> hbk" [ label="y13",  weight=0 ];
+
+	"hdt XOR wbk -> z43" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"hdt XOR wbk -> z43" -> "z43" [ label="z43",  weight=0 ];
+
+	"x34" [ shape="circle",  weight=0 ];
+
+	"x34" -> "x34 XOR y34 -> gjj" [ label="x34",  weight=0 ];
+
+	"x34" -> "y34 AND x34 -> hkn" [ label="x34",  weight=0 ];
+
+	"y07 XOR x07 -> btr" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y07 XOR x07 -> btr" -> "ncw AND btr -> qnk" [ label="btr",  weight=0 ];
+
+	"y07 XOR x07 -> btr" -> "ncw XOR btr -> z07" [ label="btr",  weight=0 ];
+
+	"x15" [ shape="circle",  weight=0 ];
+
+	"x15" -> "y15 XOR x15 -> qff" [ label="x15",  weight=0 ];
+
+	"x15" -> "y15 AND x15 -> kbj" [ label="x15",  weight=0 ];
+
+	"x42" [ shape="circle",  weight=0 ];
+
+	"x42" -> "x42 AND y42 -> hqj" [ label="x42",  weight=0 ];
+
+	"x42" -> "x42 XOR y42 -> qcn" [ label="x42",  weight=0 ];
+
+	"nhb AND tcr -> gdv" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"nhb AND tcr -> gdv" -> "gdv OR mnf -> dwn" [ label="gdv",  weight=0 ];
+
+	"z09" [ shape="square",  weight=0 ];
+
+	"ktr XOR cpc -> z27" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"ktr XOR cpc -> z27" -> "z27" [ label="z27",  weight=0 ];
+
+	"x39" [ shape="circle",  weight=0 ];
+
+	"x39" -> "y39 XOR x39 -> kjv" [ label="x39",  weight=0 ];
+
+	"x39" -> "y39 AND x39 -> rwb" [ label="x39",  weight=0 ];
+
+	"z43" [ shape="square",  weight=0 ];
+
+	"x19" [ shape="circle",  weight=0 ];
+
+	"x19" -> "x19 AND y19 -> sgm" [ label="x19",  weight=0 ];
+
+	"x19" -> "x19 XOR y19 -> drf" [ label="x19",  weight=0 ];
+
+	"x36" [ shape="circle",  weight=0 ];
+
+	"x36" -> "y36 AND x36 -> vfw" [ label="x36",  weight=0 ];
+
+	"x36" -> "y36 XOR x36 -> rbm" [ label="x36",  weight=0 ];
+
+	"y15 AND x15 -> kbj" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y15 AND x15 -> kbj" -> "kbj OR ttr -> kbw" [ label="kbj",  weight=0 ];
+
+	"z18" [ shape="square",  weight=0 ];
+
+	"rdg OR dqs -> nmr" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"rdg OR dqs -> nmr" -> "nmr AND kqt -> bgk" [ label="nmr",  weight=0 ];
+
+	"rdg OR dqs -> nmr" -> "nmr XOR kqt -> z31" [ label="nmr",  weight=0 ];
+
+	"x22" [ shape="circle",  weight=0 ];
+
+	"x22" -> "y22 AND x22 -> tgj" [ label="x22",  weight=0 ];
+
+	"x22" -> "x22 XOR y22 -> njp" [ label="x22",  weight=0 ];
+
+	"y20" [ shape="circle",  weight=0 ];
+
+	"y20" -> "x20 XOR y20 -> ckr" [ label="y20",  weight=0 ];
+
+	"y20" -> "y20 AND x20 -> bqd" [ label="y20",  weight=0 ];
+
+	"y01 XOR x01 -> kjh" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"y01 XOR x01 -> kjh" -> "kjh XOR kkc -> z01" [ label="kjh",  weight=0 ];
+
+	"y01 XOR x01 -> kjh" -> "kjh AND kkc -> jjv" [ label="kjh",  weight=0 ];
+
+	"x29" [ shape="circle",  weight=0 ];
+
+	"x29" -> "x29 XOR y29 -> qsg" [ label="x29",  weight=0 ];
+
+	"x29" -> "y29 AND x29 -> dhk" [ label="x29",  weight=0 ];
+
+	"gwg XOR ggg -> z04" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"gwg XOR ggg -> z04" -> "z04" [ label="z04",  weight=0 ];
+
+	"x32" [ shape="circle",  weight=0 ];
+
+	"x32" -> "x32 AND y32 -> wsv" [ label="x32",  weight=0 ];
+
+	"x32" -> "y32 XOR x32 -> bfj" [ label="x32",  weight=0 ];
+
+	"y29 AND x29 -> dhk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y29 AND x29 -> dhk" -> "dhk OR ntq -> knj" [ label="dhk",  weight=0 ];
+
+	"z21" [ shape="square",  weight=0 ];
+
+	"x42 XOR y42 -> qcn" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x42 XOR y42 -> qcn" -> "qcn XOR msr -> z42" [ label="qcn",  weight=0 ];
+
+	"x42 XOR y42 -> qcn" -> "qcn AND msr -> dnf" [ label="qcn",  weight=0 ];
+
+	"z40" [ shape="square",  weight=0 ];
+
+	"ncw AND btr -> qnk" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"ncw AND btr -> qnk" -> "sqm OR qnk -> nfs" [ label="qnk",  weight=0 ];
+
+	"bmw AND dwn -> gjh" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"bmw AND dwn -> gjh" -> "jpd OR gjh -> ktr" [ label="gjh",  weight=0 ];
+
+	"kjv XOR dqg -> z39" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"kjv XOR dqg -> z39" -> "z39" [ label="z39",  weight=0 ];
+
+	"qph XOR skf -> z05" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"qph XOR skf -> z05" -> "z05" [ label="z05",  weight=0 ];
+
+	"y09 AND x09 -> tpp" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y09 AND x09 -> tpp" -> "tpp OR ctj -> cwd" [ label="tpp",  weight=0 ];
+
+	"z22" [ shape="square",  weight=0 ];
+
+	"cfd AND nfs -> rrh" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"cfd AND nfs -> rrh" -> "fhv OR rrh -> nwf" [ label="rrh",  weight=0 ];
+
+	"z06" [ shape="square",  weight=0 ];
+
+	"y13 AND x13 -> rsm" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"y13 AND x13 -> rsm" -> "rsm OR npk -> std" [ label="rsm",  weight=0 ];
+
+	"x10 XOR y10 -> pwm" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"x10 XOR y10 -> pwm" -> "pwm XOR cwd -> z10" [ label="pwm",  weight=0 ];
+
+	"x10 XOR y10 -> pwm" -> "cwd AND pwm -> qtk" [ label="pwm",  weight=0 ];
+
+	"dnk AND wcj -> wjq" [ label="AND", shape="invhouse",  weight=0 ];
+
+	"dnk AND wcj -> wjq" -> "kfr OR wjq -> gwg" [ label="wjq",  weight=0 ];
+
+	"nvs OR nnt -> wcj" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"nvs OR nnt -> wcj" -> "dnk AND wcj -> wjq" [ label="wcj",  weight=0 ];
+
+	"nvs OR nnt -> wcj" -> "wcj XOR dnk -> z03" [ label="wcj",  weight=0 ];
+
+	"krw XOR wnm -> z12" [ label="XOR", shape="diamond",  weight=0 ];
+
+	"krw XOR wnm -> z12" -> "z12" [ label="z12",  weight=0 ];
+
+	"dnf OR hqj -> hdt" [ label="OR", shape="invtriangle",  weight=0 ];
+
+	"dnf OR hqj -> hdt" -> "hdt XOR wbk -> z43" [ label="hdt",  weight=0 ];
+
+	"dnf OR hqj -> hdt" -> "wbk AND hdt -> nws" [ label="hdt",  weight=0 ];
+
+}
